@@ -160,43 +160,13 @@
           </tspan>
         </text>
 
-        <!-- Typing text -->
+        <!-- Role -->
         <text font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#22D3EE" filter="url(#glow)">
           <tspan x="0" dy="28">
             <animate attributeName="opacity" values="0;1" dur="0.2s" begin="2.2s" fill="freeze"/>
-            &gt;
-          </tspan>
-          <tspan fill="#F8FAFC">
-            <animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.3s" fill="freeze"/>
-            Frontend Engineer
-            <animate attributeName="opacity" values="1;0" dur="0.1s" begin="4.8s" fill="freeze"/>
-          </tspan>
-          <tspan fill="#F8FAFC">
-            <animate attributeName="opacity" values="0;1" dur="0.1s" begin="5.0s" fill="freeze"/>
-            Full Stack Developer
-            <animate attributeName="opacity" values="1;0" dur="0.1s" begin="7.5s" fill="freeze"/>
-          </tspan>
-          <tspan fill="#F8FAFC">
-            <animate attributeName="opacity" values="0;1" dur="0.1s" begin="7.7s" fill="freeze"/>
-            Open Source Contributor
-            <animate attributeName="opacity" values="1;0" dur="0.1s" begin="10.2s" fill="freeze"/>
-          </tspan>
-          <tspan fill="#F8FAFC">
-            <animate attributeName="opacity" values="0;1" dur="0.1s" begin="10.4s" fill="freeze"/>
-            UI Engineer
-            <animate attributeName="opacity" values="1;0" dur="0.1s" begin="12.9s" fill="freeze"/>
-          </tspan>
-          <tspan fill="#F8FAFC">
-            <animate attributeName="opacity" values="0;1" dur="0.1s" begin="13.1s" fill="freeze"/>
-            AI Enthusiast
-            <animate attributeName="opacity" values="1;0" dur="0.1s" begin="15.6s" fill="freeze"/>
+            Full-Stack Developer
           </tspan>
         </text>
-
-        <!-- Cursor blink -->
-        <rect x="14" y="52" width="8" height="14" fill="#22D3EE">
-          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-        </rect>
 
         <!-- Info items -->
         <g transform="translate(0, 72)">
