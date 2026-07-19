@@ -146,18 +146,6 @@
 
 ---
 
-## ◈  ANALYTICS DASHBOARD
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rbrillant&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrillant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41)
-
-</div>
-
----
-
 ## ◈  ACTIVE MISSIONS
 
 ```
