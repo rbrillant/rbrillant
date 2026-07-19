@@ -1,17 +1,10 @@
 <div align="center">
 
-```
-███╗   ███╗███████╗███████╗██╗     ██╗     ██╗
-████╗ ████║██╔════╝██╔════╝██║     ██║     ██║
-██╔████╔██║█████╗  █████╗  ██║     ██║     ██║
-██║╚██╔╝██║██╔══╝  ██╔══╝  ██║     ██║     ██║
-██║ ╚═╝ ██║███████╗███████╗███████╗███████╗███████╗
-╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+INITIALIZING+SYSTEM...%3B%3E+IDENTITY%3A+MURANGIRA+RICHARD+BRILLANT%3B%3E+ROLE%3A+FULL-STACK+DEVELOPER%3B%3E+LOCATION%3A+KIGALI%2C+RWANDA)
-
-<a href="mailto:murangirabrillant5@gmail.com"><img src="https://img.shields.io/badge/%5B%23%5D-TRANSMIT-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0a0a0a&color=0a0a0a" alt="Email"></a>
+<!-- Dark Mode Banner -->
+ picture
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Profile Banner" src="dark.svg" width="100%">
 
 </div>
 
