@@ -44,10 +44,4 @@ Full-stack web application for a security & engineering company in Rwanda.
 - Responsive glassmorphism UI
 - Deployed on Vercel
 
----
 
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=rbrillant&color=00FF41&style=flat&label=Profile+Views)
-
-</div>
