@@ -35,13 +35,10 @@ Full-stack developer focused on building clean, scalable web applications. I wor
 
 ### Projects
 
-**Prime Pillar Engineering**
-Full-stack web application for a security & engineering company in Rwanda.
-
-- Multi-page SPA with React Router
-- 13 service pages with dynamic rendering
-- Booking system with email notifications
-- Responsive glassmorphism UI
-- Deployed on Vercel
-
-
+| Project | Description |
+|---------|-------------|
+| **Prime Pillar Engineering** | Full-stack web application for a security & engineering company in Rwanda |
+| **Car Dealership Management** | Frontend management system for car dealership operations |
+| **Car Marketplace** | Car marketplace platform for buying and selling vehicles |
+| **Innoveta** | Innoveta company project |
+| **Careers Connect** | Career networking and job connection platform |
